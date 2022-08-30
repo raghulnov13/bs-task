@@ -1,0 +1,33 @@
+*{
+    /* font-family: "Nunito", sans-serif; */
+}
+
+.navbar-brand span{
+    font-size: 30px;
+    font-weight: 700;
+    letter-spacing: 1px;
+    color: #012970;
+    
+}
+
+.navbar-nav{
+    display: flex;
+    align-items: center;
+    justify-content:end;
+    padding: 10px 0 10px 30px;
+    font-size: 16px;
+    font-weight: 700;
+    color:#4154f1;
+    margin-right: 10px;
+}
+
+.btn-primary{
+    background: #4154f1;
+    padding: 8px 20px;
+    margin-left: 20px;
+    border-radius: 4px;
+    color: #fff;
+}
+.nav-item:hover{
+    color: #4154f1;
+}
